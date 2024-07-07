@@ -1,0 +1,10 @@
+let myString = "Hello, world!";
+let myNumber = 94;
+let myBoolean = true;
+let myObject = { name: "Prapa", age: 23};
+let myArray = [1, 2, 3, 4, 5];
+console.log("Type of myString:", typeof myString); 
+console.log("Type of myNumber:", typeof myNumber); 
+console.log("Type of myBoolean:", typeof myBoolean); 
+console.log("Type of myObject:", typeof myObject); 
+console.log("Type of myArray:", typeof myArray);
